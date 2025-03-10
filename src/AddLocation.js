@@ -20,7 +20,7 @@ export default function AddLocationButton() {
         <button
             onClick={agregarUbicacion}
             style={{
-                backgroundColor: "#28a745", // Verde
+                backgroundColor: "#28a745", 
                 color: "white",
                 padding: "12px 24px",
                 fontSize: "16px",
